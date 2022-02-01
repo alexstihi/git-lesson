@@ -1,0 +1,6 @@
+- Create our first repo (done)
+- Add a file to repo (done)
+- Push changes to GitHub (done)
+- Make changes on GitHub
+- Pull changes from GitHub
+ 
